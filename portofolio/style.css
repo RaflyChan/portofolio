@@ -1,0 +1,23 @@
+
+.jumbotron{
+    padding-top: 5rem;
+    background-color: #e2edff;
+}
+
+.card{
+    transition: all 0.3s;
+}
+.c1:hover{
+    transform: scale(1.15);
+    margin-right: 10vh;
+}
+.c3:hover{
+    transform: scale(1.15);
+    margin-left: 10vh;
+    
+}
+.c5:hover{
+    transform: scale(1.15);
+    margin: 7vh; 
+}
+
